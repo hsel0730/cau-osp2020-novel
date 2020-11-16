@@ -1464,7 +1464,8 @@
 ```
 
 <!-- 복주머니를 찬 톰그림 -->
-<p align="center"><img src="https://user-images.githubusercontent.com/74297331/99222252-82e6d900-2825-11eb-8208-fb497b3e8e73.jpg" width="50%" height="50%">
+<p align="center"><img src="https://user-images.githubusercontent.com/74297331/99255998-11744e00-2858-11eb-9ff6-35c2c90e8a86.jpg" width="50%" height="50%">
+
 
 톰은 어안이 벙벙하였지만, 일단 가만히 있었다.
 ```
